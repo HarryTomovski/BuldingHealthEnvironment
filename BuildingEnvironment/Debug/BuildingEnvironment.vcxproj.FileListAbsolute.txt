@@ -1,0 +1,2 @@
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Debug\BuildingEnvironment.exe
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Debug\BuildingEnvironment.pdb

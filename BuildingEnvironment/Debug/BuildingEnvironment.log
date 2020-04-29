@@ -1,0 +1,6 @@
+﻿  Room.c
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Room.c(24,65): warning C4020: 'strcpy': too many actual parameters
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Room.c(66,23): warning C4018: '<': signed/unsigned mismatch
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Room.c(78,23): warning C4018: '<': signed/unsigned mismatch
+E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Room.c(95,29): warning C4090: 'return': different 'const' qualifiers
+  BuildingEnvironment.vcxproj -> E:\CProgramming\FromDesignToCTwo\BuildingEnvironment\Debug\BuildingEnvironment.exe
